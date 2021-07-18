@@ -1,0 +1,36 @@
+footer {
+    background-color: lightgray;
+    width: 100%;
+    height: 150px;
+    
+    
+}
+.info {
+    
+    /*justify-content: space-between;
+}*/}
+.info .infomation1 {
+  float: left;
+
+}
+.info .infomation2 {
+   float: right;
+   right: 0px;
+}
+.infomation1 strong, .infomation2 strong {
+    font-weight: bold;    
+}
+.infomation1 p, .infomation2 p {
+    
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.infomation2 .info-flex p {
+    display: inline;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.infomation1 br {
+    margin-top: 20px;
+}
